@@ -28,8 +28,8 @@ I'm a web development learner working towards becoming a Full-Stack Developer. I
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?mrstrisha&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrstrisha&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?mrstrisha&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstrisha&layout=compact&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile!
